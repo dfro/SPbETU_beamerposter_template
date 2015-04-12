@@ -1,5 +1,6 @@
 # Beamerposter template for SPbETU
-This is poster template for St. Petersburg Electrotechnical University "LETI" (Russia) containig style file for `beamerposter`.
+This is poster non-official template for St. Petersburg Electrotechnical University "LETI" (Russia) containig style file for `beamerposter`. This template based on 
+[HYposter]: https://github.com/dronir/HYposter project.
 `beamerposter` is a LaTeX package which uses `beamer` for typesetting posters.
 
 ## Requirements
