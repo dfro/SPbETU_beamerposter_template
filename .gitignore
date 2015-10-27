@@ -33,3 +33,4 @@
 *checkpoint.ipynb
 *.pdf_tex
 beamerposter.sty
+images/*.pdf
