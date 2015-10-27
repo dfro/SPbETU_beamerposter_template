@@ -6,9 +6,7 @@ This is non-official poster template for St. Petersburg Electrotechnical Univers
 
 ## Requirements
 
-You will need LaTeX with [beamer] and [beamerposter] packages to be installed.
-Most modern LaTeX installations come with `beamer` included, but you must
-install `beamerposter` yourself.
+You will need LaTeX with [beamer] and [beamerposter] packages installed.
 
 To use svg package 'Inkscape' must be installed.
 
